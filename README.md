@@ -27,7 +27,7 @@
 			- It is not difficult to get a GitHub user's e-mail address, and my GitHub account is on my LinkedIn page, so this is not surprising and does not require any skill on the part of those responsible. 
 			- I have made some screenshots of the e-mail which I received. They can be found in the images folder in this repository.
 			- In one screenshot you'll see that there is what appears to be an IP address in the "to:" section of the e-mail address information. I did an IP address lookup for 198.142.125.28 and found that it was registered to Asia Pacific Network Information Centre (APNIC) in South Brisbane, Queensland, Australia (more information available in phishing_email_ip_address.txt in the files folder in this repository).
-				- The timezone in this area of Australia is 18 hours ahead of California, so since the e-mail was received at 2:30am on April 17 that would make it roughly 6:30pm at the time that it was sent.
+				- The timezone in this area of Australia is 18 hours ahead of California, so since the e-mail was received at 2:30am on April 17 that would make it roughly 8:30pm at the time that it was sent.
 				- IP address registered to Asia Pacific Network Information Centre, region of world in close proximity to China and Indonesia, the furry h4x0r MrXyfir (from fan-mail repository) is Indonesian. Could be related.
 			- I decided to check the web for similar e-mails and found a recent [news article](https://www.washingtontimes.com/news/2025/apr/22/email-pretending-google-subpoena-alert-phishing-scam/) in <i>The Washington Times</i> about people receiving phishing e-mails pretending to be from Google.
 		- Could be related to fan-mail repository stuff (MrXyfir the woke Indonesian furry & 1337 h4x0r)
@@ -77,4 +77,5 @@
 			- May 1: 1 clone of riots repository, 2 clones of xnhl repository (1 unique source)
 			- May 2: 1 clone of woke_memes__media repository, 1 clone of xnhl repository
 			- May 3: 1 clone of xnhl repository
-			- May 4-9: Nothing
+			- May 4-8: Nothing
+			- May 9: Nothing before update of this repository.
