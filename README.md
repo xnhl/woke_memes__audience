@@ -107,6 +107,15 @@
 			- June 7-8: 6 repositories cloned
 			- June 13: 1 clone of racism repository
 			- June 14-17: 21 repositories cloned, 31 clones total
+			- June 17 - August 25
+				- Steadily increasing number of clones of repositories.
+				- Many spam / phishing attempts received via e-mail.
+					- Messages from May 2025 - present are included in this repository (/images/email).
+				- Clone activity significantly increased since adding UK/EU memes
+					- It warms my heart to know that I'm offending/triggering woke cultists and the spineless cowards, morons, cucks, and masochists who enable them.
+					- Stats were concealed (no activity shown) August ~15-20 until August 21 when repository stats were finally updated.
+						- Could be due to leftists at GitHub playing games, reporting me, trying to have my account/repositories removed/censored.
+
 	- ## To My Secret Admirers
 		- You muppets are clearly too dumb to avoid being caught and I sincerely urge you to continue embarrassing yourselves.
 		- Whenever you're ready I'll be delighted to help you burn more of your tools/methods/strategies by sharing them here.
